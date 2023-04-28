@@ -5,15 +5,15 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (
   module.exports = {
-    title: "Liams Doc u saurus Site",
+    title: "Published isung vscode and github",
     tagline: "Dinosaurs are cool",
-    url: "https://docusurus.eae.org.uk",
+    url: "https://docs.eae.org.uk",
     baseUrl: "/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/favicon.ico",
-    organizationName: "facebook", // Usually your GitHub org/user name.
-    projectName: "docusaurus", // Usually your repo name.
+    organizationName: "itwebandcloud", // Usually your GitHub org/user name.
+    projectName: "documentation and CD/CI test", // Usually your repo name.
 
     presets: [
       [
